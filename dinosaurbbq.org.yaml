@@ -12,5 +12,6 @@ wwww:
   type: CNAME
   value: exu3.github.io.
 testing-dns:
+  ttl: 100
   type: CNAME
   value: hackclub.com
