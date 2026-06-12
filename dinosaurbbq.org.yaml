@@ -14,3 +14,6 @@ wwww:
 testing-dns:
   type: CNAME
   value: hackclub.com
+testing-dns-2:
+  type: CNAME
+  value: hackclub.com
